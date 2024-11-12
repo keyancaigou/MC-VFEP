@@ -9,7 +9,7 @@ This paper proposes a multi-modal large language model for video future event pr
 [Description of the core implementation features of your project.]
 
 ### 📝 Modules Description:
-/
+!image[]
 
 ## Project Page
 [Link to the more extensive project page if applicable]
