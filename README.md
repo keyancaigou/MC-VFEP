@@ -4,8 +4,7 @@
 
 ## 🔎 Overview 
 This paper proposes a multi-modal large language model for video future event prediction termed MC-VFEP, which leverages a memory consolidation mechanism encompassing visual knowledge memory consolidation and scene graph knowledge reasoning modules.
-
-### 📝 Modules Description:
+ 
  ![contents](https://github.com/keyancaigou/MC-VFEP/blob/main/model.pdf)
 
 ## 📁 Code
